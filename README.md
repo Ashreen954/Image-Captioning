@@ -99,8 +99,3 @@ Ensure the following are installed on your system:
 - Ensure the Google API Key is valid and configured correctly in `main.py`.
 - Verify that both the FastAPI backend and Streamlit frontend are running without errors.
 - If captions are not generated, check the FastAPI logs for detailed error messages.
-
-# License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
