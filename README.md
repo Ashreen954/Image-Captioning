@@ -36,7 +36,7 @@ Ensure the following are installed on your system:
 2. **Configure the Google API Key**  
    Install all required Python libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install fastapi uvicorn google-generativeai
 3. **Replace the placeholder api_key in main.py with your own API key:**  
    Install all required Python libraries:
    ```bash
