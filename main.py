@@ -6,7 +6,7 @@ import io
 import base64
 
 # Configure the API key for Google Generative AI
-api_key = "AIzaSyCLHwVq8sA02yRIa_pJrgU6OoZ-QecSjGo"
+api_key = "YOUR_API_KEY"
 genai.configure(api_key=api_key)
 
 # Initialize FastAPI app
