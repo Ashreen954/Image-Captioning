@@ -76,4 +76,31 @@ Ensure the following are installed on your system:
 3. Upload an image and provide a prompt in the interface.
 4. Click GET RESPONSE and verify the caption generated is relevant to the uploaded image.
 
-### 3.Sampl Output
+### 3. Sample Output
+
+1. FastApi- Ouput 1
+   
+![leaf](https://github.com/user-attachments/assets/1758c743-c64e-4e22-85a1-04d126e96b3e)
+![Screenshot 2024-11-30 214148](https://github.com/user-attachments/assets/18ca7a25-b1bf-49b7-a31f-1d4797b8a76c)
+![Screenshot 2024-11-30 214201](https://github.com/user-attachments/assets/6fa715e9-6fe2-4ff9-98d5-791c99eeb1c2)
+
+2. FastApi- Output 2
+   
+![balayya](https://github.com/user-attachments/assets/7334cbf2-35d7-4ca2-a7f5-1e1bd034b1a4)
+![Screenshot 2024-11-30 214351](https://github.com/user-attachments/assets/c9553eb7-389c-4926-b86e-546f8db4acf6)
+![Screenshot 2024-11-30 214401](https://github.com/user-attachments/assets/013f1edc-aa4c-4fd8-9c15-e43439c0d734)
+
+3. Streamlit Application
+![Screenshot 2024-11-30 223619](https://github.com/user-attachments/assets/26b619ad-acc4-4b5b-95bf-6d9b6da046d9)
+
+
+# Troubleshooting
+
+- Ensure the Google API Key is valid and configured correctly in `main.py`.
+- Verify that both the FastAPI backend and Streamlit frontend are running without errors.
+- If captions are not generated, check the FastAPI logs for detailed error messages.
+
+# License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
